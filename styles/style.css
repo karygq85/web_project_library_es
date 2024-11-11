@@ -343,9 +343,13 @@
 .footer {
   box-sizing: border-box;
   background-color: #000;
+  color: #fff;
 }
 
 .footer__columns {
+  padding: 60px 80px;
+  display: flex;
+  justify-content: space-around;
 }
 
 .footer__column_content_hours {
@@ -355,6 +359,8 @@
 }
 
 .footer__logo {
+  width: 58px;
+  height: 80px;
 }
 
 .footer__column-heading {
@@ -379,4 +385,5 @@
 }
 
 .footer__copyright {
+  padding-top: 100px;
 }
