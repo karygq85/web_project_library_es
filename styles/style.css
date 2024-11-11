@@ -317,12 +317,10 @@
   display: flex;
   justify-content: center;
   gap: 40px;
-  /* Agrega estilos */
 }
 
 .step {
   flex-basis: 220px;
-  /* Agrega estilos */
 }
 
 .step__title {
