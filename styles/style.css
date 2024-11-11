@@ -342,6 +342,7 @@
 
 .footer {
   box-sizing: border-box;
+  background-color: #000;
 }
 
 .footer__columns {
